@@ -13,8 +13,6 @@ import java.util.Scanner;
  *  Number of slip days I am using:
  */
 
-
-
 /**
  * A collection of NameRecords. 
  * Stores NameRecord objects and provides methods to select
