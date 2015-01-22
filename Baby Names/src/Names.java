@@ -2,22 +2,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-/*  Student information for assignment:
- *
- *  On my honor, <NAME>, this programming assignment is my own work
- *  and I have not provided this code to any other student.
- *
- *  UTEID:
- *  email address:
- *  Grader name:
- *  Number of slip days I am using:
- */
-
-/**
- * A collection of NameRecords. 
- * Stores NameRecord objects and provides methods to select
- * NameRecords based on various criteria.
- */
 public class Names {
 	
 	private ArrayList<NameRecord> names = new ArrayList<NameRecord>();

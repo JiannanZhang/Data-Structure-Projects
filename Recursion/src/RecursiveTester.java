@@ -1,22 +1,3 @@
-/*  Student information for assignment:
- *
- *  Number of slip days used:
- *
- *  Student 1 (Student whose turnin account is being used)
- *  UTEID:
- *  email address:
- *  Grader name:
- *  Section number:
- *
- *  Student 2
- *  UTEID:
- *  email address:
- *  Grader name:
- *  Section number:
- *
- */
-
-
 import java.util.ArrayList;
 import java.util.Collections;
 

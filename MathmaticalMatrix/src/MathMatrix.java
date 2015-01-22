@@ -1,18 +1,5 @@
 import java.util.Arrays;
 
-//  MathMatrix.java - CS314 Assignment 2
-
-/*  Student information for assignment:
- *
- *  On my honor, <NAME>, this programming assignment is my own work
- *  and I have not provided this code to any other student.
- *
- *  UTEID:
- *  email address:
- *  Grader name:
- *  Unique section number:
- *  Number of slip days I am using:
- */
 
 
 /**

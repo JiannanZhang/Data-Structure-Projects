@@ -1,14 +1,6 @@
 import java.util.Arrays;
 import java.util.Random;
 
-/*  Student information for assignment:
- *
- *  UTEID:
- *  email address:
- *  Grader name:
- *  Number of slip days I am using:
- */
-
 
 
 /* CS314 Students. Put your experiment results and

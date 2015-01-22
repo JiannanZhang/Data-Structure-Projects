@@ -3,23 +3,6 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Random;
 
-//  CodeCamp.java - CS314 Assignment 1 - Tester class
-
-/*  Student information for assignment:
- *
- *  Name:
- *  email address:
- *  UTEID:
- *  Section 5 digit ID: 
- *  Grader name:
- *  Number of slip days used on this assignment:
- */
-
-
-/* CS314 Students: place results of shared birthdays experiments in this comment.
-
-
-*/
  
 public class CodeCampTester {
 

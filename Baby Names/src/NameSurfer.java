@@ -1,14 +1,3 @@
-/*  Student information for assignment:
- *
- *  On my honor, <NAME>, this programming assignment is my own work
- *  and I have not provided this code to any other student.
- *
- *  UTEID:
- *  email address:
- *  Grader name:
- *  Number of slip days I am using:
- */
-
 import java.io.File;
 import java.util.ArrayList;
 import java.util.Scanner;

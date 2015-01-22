@@ -2,23 +2,6 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
 
-//  CodeCamp.java - CS314 Assignment 1
-
-/*  Student information for assignment:
- * 
- * replace <NAME> with your name.
- *
- *  On my honor, <NAME>, this programming assignment is my own work
- *  and I have not provided this code to any other student.
- *
- *  Name:Jiannan Zhang
- *  email address:
- *  UTEID: jz7674
- *  Section 5 digit ID: 
- *  Grader name:
- *  Number of slip days used on this assignment:
- */
-
 
 public class CodeCamp {
   

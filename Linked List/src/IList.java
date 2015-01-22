@@ -6,7 +6,6 @@ import java.util.Iterator;
  *
  */
 public interface IList<E> extends Iterable<E>{
-
     /**
      * Add an item to the end of this list.
      * <br>pre: item != null
